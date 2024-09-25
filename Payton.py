@@ -1,0 +1,2 @@
+
+print("salu2")
